@@ -67,7 +67,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções web eficient
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=uml" width="48" height="48" alt="UML" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="48" height="48" alt="UML" />
       <br>UML
     </td>
     <td align="center" width="96">
@@ -79,8 +79,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções web eficient
 <br><br>
 </div>
 
-## � Estatísticas do GitHub
-##  Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguinaldoarnaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
