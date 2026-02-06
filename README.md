@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&background=00000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Eu+sou+Aguinaldo+Arnaldo!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Typing SVG" />
+  <h1>Olá, Eu sou Aguinaldo Arnaldo! 👋</h1>
 </div>
 
 <div align="center">
