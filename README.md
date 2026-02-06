@@ -1,106 +1,69 @@
-# Olá, eu sou Aguinaldo Arnaldo! 👋
-
-## 🚀 Sobre Mim
-Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções web eficientes e modernas. Tenho experiência no desenvolvimento de sistemas complexos, como gestão escolar e aplicações corporativas, utilizando tecnologias de ponta.
-
-- 🔭 Atualmente estou trabalhando em **Sistemas de Gestão Escolar**
-- 🌱 Estou aprofundando meus conhecimentos em **Arquitetura de Software e Otimização de Performance**
-- ⚡ Fato divertido: Adoro transformar café em código!
-
-## 💻 Minhas Ferramentas de Trabalho
-
-<div style="display: flex; align-items: flex-start; justify-content: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="48" height="48" alt="UML" />
-      <br>UML
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="48" height="48" alt="Trello" />
-      <br>Trello
-    </td>
-  </tr>
-</table>
-<br><br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&background=00000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Eu+sou+Aguinaldo+Arnaldo!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Typing SVG" />
 </div>
 
-## 📈 Estatísticas do GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguinaldoarnaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldoarnaldo&layout=compact&theme=dracula"/>
+  <h3>🚀 Sobre Mim</h3>
+  <p>
+    Sou um <b>Desenvolvedor Full Stack</b> apaixonado por criar soluções web eficientes e modernas. 
+    Tenho experiência no desenvolvimento de sistemas complexos, como gestão escolar e aplicações corporativas, utilizando tecnologias de ponta.
+  </p>
+  <p>
+    🔭 Atualmente trabalhando em <b>Sistemas de Gestão Escolar</b><br>
+    🌱 Focando em <b>Arquitetura de Software</b> e <b>Performance</b>
+  </p>
 </div>
 
-## 📫 Contato
-
-Entre em contato comigo para colaborações ou apenas para dizer um oi!
+<br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://facebook.com/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <h3>💻 Tech Stack</h3>
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <br/>
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <br/>
+
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <br/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <br/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguinaldoarnaldo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldoarnaldo&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📫 Contato</h3>
+  <a href="https://linkedin.com/in/aguinaldoarnaldo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:seu_email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://discord.com/users/SEU_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <a href="https://facebook.com/aguinaldoarnaldo" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
